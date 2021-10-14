@@ -10,9 +10,9 @@ import {
 
 import { Ionicons } from '@expo/vector-icons';
 
-function SliderItem({ data }) {
+function SliderItem({ data, navigatePage }) {
     return (
-        <Container activeOpacity={0.83}>
+        <Container activeOpacity={0.83} onPress={() => navigatePage(data)}>
             <BannerItem
                 source={{ uri: `http://image.tmdb.org/t/p/original/${data.poster_path}` }}
             />

@@ -7,7 +7,8 @@ Baseado no projeto Insider do canal Sujeito Programador.
 Sequência de Screenshots para permitir uma melhor compreensão do aplicativo.
 
 ## Página Home
-<img height="720" src="https://user-images.githubusercontent.com/72053163/160748698-c058161f-7e5f-4bf6-a128-d42a706ce714.png"/>
+<img height="720" src="https://user-images.githubusercontent.com/72053163/160916676-c9d06bbe-64ab-49b0-a10e-3d164bc415e5.gif"/>
+
 
 ## Sidebar
 <img height="720" src="https://user-images.githubusercontent.com/72053163/160748914-33d8eeea-b2b0-475d-bfb6-0b0710fcf539.png"/>

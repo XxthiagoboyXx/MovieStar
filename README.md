@@ -3,6 +3,9 @@
 Aplicativo Mobile feito em React Native com o intuito de auxiliar o usuário em sua escolha de filmes para assistir.
 Baseado no projeto Insider do canal Sujeito Programador.
 
+# Download
+Link do APK para Download: https://drive.google.com/file/d/1H0bFwjKfgV6DQemu4G39BMxp2ILo0aGC
+
 # Screenshots
 Sequência de Screenshots para permitir uma melhor compreensão do aplicativo.
 
